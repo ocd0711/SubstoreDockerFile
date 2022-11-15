@@ -1,4 +1,4 @@
-name: 构建Sub-Store Docker镜像
+name: 构建 Sub-Store Docker 镜像
 
 on:
   push:

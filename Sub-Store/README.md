@@ -12,7 +12,7 @@
 version: '2.2'
 services:
   substore:
-    image: domplingyaya/sub-store:dev
+    image: ocd0711/sub-store:latest
     container_name: Substore
     restart: always
     shm_size: 2gb
